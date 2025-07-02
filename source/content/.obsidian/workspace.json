@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Books to Read.md",
+                "file": "Books/Book Reviews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books to Read"
+              "title": "Book Reviews"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Books to Read.md",
+                "file": "Books/Book Reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books to Read"
+              "title": "Backlinks for Book Reviews"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Books to Read.md",
+                "file": "Books/Book Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Books to Read"
+              "title": "Outgoing links from Book Reviews"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Books to Read.md",
+                "file": "Books/Book Reviews.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Books to Read"
+              "title": "Outline of Book Reviews"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Books/Books to Read.md",
     "Books/Book Reviews.md",
     "category-folder/Some note.md",
     "School Work (Not Master's Thesis)/Computational Heat Transfer/Final Project.md",
     "School Work (Not Master's Thesis)/Computational Heat Transfer",
     "Miscellaneous Notes/ECLSS Notes.md",
-    "Books/Books to Read.md",
     "School Work (Not Master's Thesis)",
     "Work",
     "Miscellaneous Notes",
